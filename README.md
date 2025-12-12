@@ -6,6 +6,7 @@ Sentiment Analysis on Social Media Data A simple project to analyze and visualiz
 🔗 Twitter US Airline Sentiment https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment 
 
 * Features
+  
 1.Data Cleaning & Preprocessing
   
 2.Tokenization
@@ -14,6 +15,6 @@ Sentiment Analysis on Social Media Data A simple project to analyze and visualiz
 
 4.Sentiment Classification using VADER
 
-5.Visualizations (Bar chart, Pie chart, Wordcloud)
+5.Visualizations (Sentiment Distribution Pie Chart,Gradient Circle Sentiment Summary, Sentiment Score)
 
 6.Exporting cleaned + analyzed dataset
