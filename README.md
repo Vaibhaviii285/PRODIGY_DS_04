@@ -7,8 +7,13 @@ Sentiment Analysis on Social Media Data A simple project to analyze and visualiz
 
 * Features
 1.Data Cleaning & Preprocessing
+  
 2.Tokenization
+
 3.Removing Stopwords
+
 4.Sentiment Classification using VADER
+
 5.Visualizations (Bar chart, Pie chart, Wordcloud)
+
 6.Exporting cleaned + analyzed dataset
